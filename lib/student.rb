@@ -39,4 +39,5 @@ attr_reader :id
   end
   
   def self.create(name:, grade:)
+    Student
 end
